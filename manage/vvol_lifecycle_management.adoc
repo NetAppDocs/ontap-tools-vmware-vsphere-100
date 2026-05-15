@@ -9,4 +9,4 @@ summary: 'You can manage Virtual Volumes (vVols) using the VMWare vCenter user i
 :imagesdir: ../media/
 
 [.lead]
-You can manage Virtual Volumes (vVols) using the VMWare vCenter user interface. For details, refer to https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/9-1/vsphere-storage/working-with-virtual-volumes.html#GUID-0F225B19-7C2B-4F33-BADE-766DA1E3B565-en%27[VMware documentation].
+You can manage Virtual Volumes (vVols) using the VMWare vCenter user interface. For details, refer to https://techdocs.broadcom.com/us/en/vmware-cis/vsphere/vsphere/9-1/vsphere-storage/working-with-virtual-volumes.html#GUID-0F225B19-7C2B-4F33-BADE-766DA1E3B565-en%27[VMware documentation^].
